@@ -1,8 +1,8 @@
 <?php
 
-namespace Agavee\Tests\Toolbox\Parameters;
+namespace Omissis\Tests\Toolbox\Parameters;
 
-use Agavee\Toolbox\Parameters\Adapter as ParametersAdapter;
+use Omissis\Toolbox\Parameters\Adapter as ParametersAdapter;
 use Doctrine\Common\Collections\ArrayCollection;
 
 class AdapterTest extends \PHPUnit_Framework_TestCase

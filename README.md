@@ -1,4 +1,4 @@
-Agavee PHP Toolbox
+Omissis PHP Toolbox
 ==================
 
 A repository containing common php utilities.

@@ -1,9 +1,9 @@
 <?php
 
-namespace Agavee\Tests\Toolbox\Model;
+namespace Omissis\Tests\Toolbox\Model;
 
-use Agavee\Toolbox\Model\Serializer;
-use Agavee\Tests\Toolbox\Models\Person;
+use Omissis\Toolbox\Model\Serializer;
+use Omissis\Tests\Toolbox\Models\Person;
 
 class SerializerTest extends \PHPUnit_Framework_TestCase
 {

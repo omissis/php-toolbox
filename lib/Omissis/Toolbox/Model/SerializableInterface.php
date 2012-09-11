@@ -1,6 +1,6 @@
 <?php
 
-namespace Agavee\Toolbox\Model;
+namespace Omissis\Toolbox\Model;
 
 interface SerializableInterface {
     public function toArray();

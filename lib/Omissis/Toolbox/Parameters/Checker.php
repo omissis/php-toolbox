@@ -1,11 +1,11 @@
 <?php
 
-namespace Agavee\Toolbox\Parameters;
+namespace Omissis\Toolbox\Parameters;
 
 /**
  * Parameters Checker
  *
- * @author Claudio Beatrice <claudio@agavee.com>
+ * @author Claudio Beatrice <claudi0.beatric3@gmail.com>
  */
 class Checker
 {

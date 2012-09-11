@@ -1,13 +1,13 @@
 <?php
 
-namespace Agavee\Toolbox\Parameters;
+namespace Omissis\Toolbox\Parameters;
 
 use Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * Parameters Adapter
  *
- * @author Claudio Beatrice <claudio@agavee.com>
+ * @author Claudio Beatrice <claudi0.beatric3@gmail.com>
  */
 class Adapter {
     /**

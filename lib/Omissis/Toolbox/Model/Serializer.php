@@ -1,13 +1,13 @@
 <?php
 
-namespace Agavee\Toolbox\Model;
+namespace Omissis\Toolbox\Model;
 
 use Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * Object Serializer
  *
- * @author Claudio Beatrice <claudio@agavee.com>
+ * @author Claudio Beatrice <claudi0.beatric3@gmail.com>
  */
 class Serializer {
     /**

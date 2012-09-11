@@ -1,9 +1,9 @@
 <?php
 
-namespace Agavee\Tests\Toolbox\Models;
+namespace Omissis\Tests\Toolbox\Models;
 
-use Agavee\Toolbox\Model\Serializer;
-use Agavee\Toolbox\Model\SerializableInterface;
+use Omissis\Toolbox\Model\Serializer;
+use Omissis\Toolbox\Model\SerializableInterface;
 
 /**
  * Description of Person
@@ -70,4 +70,3 @@ class Person implements SerializableInterface
         return Serializer::toArray($this);
     }
 }
-

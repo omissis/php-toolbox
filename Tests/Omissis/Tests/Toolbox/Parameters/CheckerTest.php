@@ -1,8 +1,8 @@
 <?php
 
-namespace Agavee\Tests\Toolbox\Parameters;
+namespace Omissis\Tests\Toolbox\Parameters;
 
-use Agavee\Toolbox\Parameters\Checker as ParametersChecker;
+use Omissis\Toolbox\Parameters\Checker as ParametersChecker;
 
 class CheckerTest extends \PHPUnit_Framework_TestCase
 {

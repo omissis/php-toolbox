@@ -1,8 +1,8 @@
 <?php
 
-namespace Agavee\Tests\Toolbox\Util;
+namespace Omissis\Tests\Toolbox\Util;
 
-use Agavee\Toolbox\Util\ArrayKeyHelper as Akh;
+use Omissis\Toolbox\Util\ArrayKeyHelper as Akh;
 
 class KeyHelperTest extends \PHPUnit_Framework_TestCase
 {

@@ -1,13 +1,13 @@
 <?php
 
-namespace Agavee\Toolbox\Util;
+namespace Omissis\Toolbox\Util;
 
 /**
  * Array Key Helper
  *
  * This class contains four methods to help with array key access
  *
- * @author Claudio Beatrice <claudio@agavee.com>
+ * @author Claudio Beatrice <claudi0.beatric3@gmail.com>
  */
 class ArrayKeyHelper
 {
